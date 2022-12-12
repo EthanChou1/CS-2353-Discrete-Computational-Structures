@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.16)
+project(ListGenerator)
+
+set(CMAKE_CXX_STANDARD 14)
+configure_file(data/namelist.txt data/namelist.txt NEWLINE_STYLE UNIX)
+configure_file(data/namelist.txt data/namelist.txt NEWLINE_STYLE UNIX)
+configure_file(data/set_A.txt data/set_A.txt NEWLINE_STYLE UNIX)
+configure_file(data/set_A.txt data/set_A.txt NEWLINE_STYLE UNIX)
+configure_file(data/set_B.txt data/set_B.txt NEWLINE_STYLE UNIX)
+configure_file(data/set_B.txt data/set_B.txt NEWLINE_STYLE UNIX)
+add_executable(ListGenerator main.cpp ListGenerator.cpp ListGenerator.h)

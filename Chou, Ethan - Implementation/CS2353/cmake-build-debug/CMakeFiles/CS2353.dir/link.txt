@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CS2353.dir/main.cpp.o CMakeFiles/CS2353.dir/Element.cpp.o CMakeFiles/CS2353.dir/SetOfElements.cpp.o CMakeFiles/CS2353.dir/StableMatch.cpp.o CMakeFiles/CS2353.dir/driver.cpp.o  -o CS2353 

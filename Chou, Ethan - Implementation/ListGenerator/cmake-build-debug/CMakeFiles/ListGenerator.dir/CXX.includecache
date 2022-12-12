@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/ethan/CLionProjects/ListGenerator/ListGenerator.h
+fstream
+-
+iostream
+-
+vector
+-
+algorithm
+-
+
+/mnt/c/Users/ethan/CLionProjects/ListGenerator/main.cpp
+iostream
+-
+fstream
+-
+ListGenerator.h
+/mnt/c/Users/ethan/CLionProjects/ListGenerator/ListGenerator.h
+

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CS2353"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\data\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CS2353">
+				<Option output="/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/CS2353" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 CS2353"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CS2353/fast">
+				<Option output="/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/CS2353" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 CS2353/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/CS2353/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/CS2353/Element.cpp">
+			<Option target="CS2353"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/CS2353/Element.h">
+			<Option target="CS2353"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/CS2353/SetOfElements.cpp">
+			<Option target="CS2353"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/CS2353/SetOfElements.h">
+			<Option target="CS2353"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/CS2353/StableMatch.cpp">
+			<Option target="CS2353"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/CS2353/StableMatch.h">
+			<Option target="CS2353"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/CS2353/driver.cpp">
+			<Option target="CS2353"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/CS2353/driver.h">
+			<Option target="CS2353"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/CS2353/main.cpp">
+			<Option target="CS2353"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/CS2353/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/CS2353/data/set_A.txt">
+			<Option virtualFolder="CMake Files\data\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/CS2353/data/set_B.txt">
+			<Option virtualFolder="CMake Files\data\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

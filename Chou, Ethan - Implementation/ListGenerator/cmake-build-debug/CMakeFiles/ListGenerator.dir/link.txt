@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ListGenerator.dir/main.cpp.o CMakeFiles/ListGenerator.dir/ListGenerator.cpp.o  -o ListGenerator 
